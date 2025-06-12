@@ -4,7 +4,7 @@
 
 Implementação do algoritmo QuickSort e QuickSampleSort baseada no artigo **"A perspective on QuickSort"** de J. JaJa (Computing in Science and Engineering, vol. 2 No. 1, pp. 43-49, 2000).
 
-###v Grupo: Gabriel Jota e Larissa Mariella
+### Grupo: Gabriel Jota e Larissa Mariella
 
 ## Arquivos
 
